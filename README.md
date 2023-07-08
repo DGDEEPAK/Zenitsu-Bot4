@@ -140,6 +140,8 @@ git clone https://github.com/DGDEEPAK/Zenitsu-Bot4
 
 cd Zenitsu-Bot4
 
+yarn install
+
 rm -rf session
 
 node Nandita.js
@@ -165,6 +167,8 @@ apt install bash
 git clone https://github.com/DGDEEPAK/Zenitsu-Bot4
 
 cd Zenitsu-Bot4
+
+yarn install
 
 rm -rf session
 
