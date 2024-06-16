@@ -6,7 +6,7 @@ global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
-global.antispam = false //auto kick spammer (true to on, false to off)
+global.antispam = true  //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
@@ -23,7 +23,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['918348225320'] //ur owner number
 global.ownernomer = "918348225320" //ur owner number2
-global.ownername = "🦄Dream Guy Deepak" //ur owner name
+global.ownername = "Angel" //ur owner name
 global.ytname = "YT: Deepak" //ur yt chanel name
 global.socialm = "GitHub: DGDEEPAK" //ur github or insta name
 global.location = "India, West Bengal, Darjeeling" //ur location
@@ -31,7 +31,7 @@ global.location = "India, West Bengal, Darjeeling" //ur location
 //new
 global.botname = "Zenitsu-Bot"
 global.ownernumber = '918348225320'
-global.ownername = '🦄Dream Guy Deepak'
+global.ownername = 'Angel'
 global.ownerNumber = ["918348225320@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@dreamguydeepak"
 global.websitex = "https://youtube.com/@dreamguydeepak"
